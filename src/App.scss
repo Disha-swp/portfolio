@@ -1,0 +1,21 @@
+$primary-color: #fff700;
+
+@import 'animate.css';
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=La+Belle+Aurore&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anta&display=swap');
+
+// @font-face {
+//   font-family: 'Helvetica Neue';
+//   src: url('./assest') format('woff2'),
+//        url('../fonts/customfont.woff') format('woff'),
+//        url('../fonts/customfont.ttf') format('truetype');
+//   font-weight: normal;
+//   font-style: normal;
+// }
+input,
+textarea{
+  font-family: 'Bebas Neue';
+
+}

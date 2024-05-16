@@ -1,8 +1,17 @@
+html{
+  font-size: 62.5%;
+}
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-weight: 300; /* Specify font weight */
+  font-size: 11px; /* Specify font size */
+  line-height: 1.4; /* Specify line height */
+  font-family: 'Bebas Neue', sans-serif; /* Specify font family */
+  color: #444;
+  background: #022c43;
+  overflow: hidden;
+  display: block;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
