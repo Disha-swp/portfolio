@@ -10,7 +10,7 @@ body {
   font-family: 'Bebas Neue', sans-serif; /* Specify font family */
   color: #444;
   background: #022c43;
-  overflow: hidden;
+  /* overflow: hidden; */
   display: block;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
