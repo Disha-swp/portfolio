@@ -7,7 +7,8 @@ body {
   font-weight: 300; /* Specify font weight */
   font-size: 11px; /* Specify font size */
   line-height: 1.4; /* Specify line height */
-  font-family: 'Bebas Neue', sans-serif; /* Specify font family */
+  font-family: 'Montserrat', sans-serif;
+  /*font-family: 'Bebas Neue', sans-serif;  Specify font family */
   color: #444;
   background: #022c43;
   /* overflow: hidden; */
